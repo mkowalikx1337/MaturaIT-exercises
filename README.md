@@ -1,1 +1,1 @@
-# Tasks from baccalaureate courses from maturait.pl
+# Zadania maturalne z kursu MaturaIT.pl
