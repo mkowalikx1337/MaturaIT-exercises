@@ -23,7 +23,7 @@ from math import sqrt
 
 
 def delta(a, b, c):
-    return sqrt(b * b - 4 * a * c)
+    return sqrt(pow(b, 2) - 4*a*c)
 
 
 def miejscaZerowe(a, b, c):
